@@ -1,91 +1,214 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Kumar!;" />
-</h1>
+<div align="center">
 
-[cite_start]<h3 align="center">Dual Degree (B.Tech + M.Tech) - Electronics & Communication Engineering [cite: 5]</h3>
-[cite_start]<p align="center">National Institute of Technology, Patna [cite: 6] | [cite_start]CGPA: 8.89/10 [cite: 18]</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=120&section=header"/>
 
-<p align="center">
-[cite_start]Building systems close to the metal — from RTL and digital design to high-performance C++[cite: 32, 33].
-</p>
+</div>
 
----
+<div align="center">
 
-### 💼 Experience & Research
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│        silicon → gates → logic → systems → software              │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-* **Indian Space Lab** | [cite_start]Summer Research Intern [cite: 10, 11]
-  [cite_start]Researching defense drone technology for surveillance and reconnaissance applications[cite: 67]. [cite_start]Designed algorithmic pipelines for autonomous UAV target detection system[cite: 12].
-* **1StopMandi** | Full Stack Web Developer Intern
-  Built and maintained scalable web architecture.
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=600&height=60&color=58A6FF&duration=3000&pause=800&lines=Rahul+Kumar;RTL+%26+Digital+Design;High-Performance+C%2B%2B;Full-Stack+Engineering" />
 
----
+**ECE Dual Degree · NIT Patna · CGPA 8.89**
 
-### 🛠️ Projects
+*One of the few engineers who's equally at home in a waveform viewer and a Node.js debugger.*
 
-#### ⚡ Systems & Hardware RTL
-**AXI4-Stream Synchronous FIFO**
-* [cite_start]Designed a parameterized Synchronous FIFO in Verilog featuring look-ahead circular buffer routing[cite: 22].
-* [cite_start]Implemented an industry-standard AMBA AXI4-Stream bridge with active-low synchronous resets[cite: 23].
-* [cite_start]Developed a C++ Golden Reference Model utilizing a Python orchestration script for 1:1 automated ModelSim text-regression verification[cite: 24].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulkmr--nitp-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkmr-nitp)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_%F0%9F%8F%85_1904-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1402-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com)
+[![Email](https://img.shields.io/badge/Email-rahulpd180@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahulpd180@gmail.com)
 
-#### 🚀 High-Performance Software
-**High-Performance In-Memory Cache Engine**
-* [cite_start]Architected a generic Key-Value Store with a Least Recently Used (LRU) eviction policy[cite: 28].
-* [cite_start]Achieved flat $O(1)$ time complexity and ~0.12 µs latency for both data retrieval and insertion[cite: 29].
-* [cite_start]Engineered safe multithreaded access via mutex synchronization, maintaining high throughput (~8M ops/sec) under heavy concurrent contention[cite: 30].
-
-#### 🌐 Full-Stack & Web
-[cite_start]**Alumni Portal - MN Jha DAV Public School (200+ Real Users)** [cite: 80]
-* [cite_start]Developed a full-stack MERN application with JWT auth and real-time group chats with Socket.IO[cite: 82, 85].
-**Study Notion**
-* Developed a full-stack ed-tech platform featuring Razorpay payment gateway integration.
+</div>
 
 ---
 
-### 🏆 Competitive Programming
+## `whoami`
 
-* [cite_start]**600+ problems solved** on different coding platforms[cite: 94].
-* [cite_start]**LeetCode:** Knight (Top 5%) (max: 1904)[cite: 39].
-* [cite_start]**Codeforces:** Specialist (max: 1402)[cite: 39].
+```cpp
+struct Rahul {
+    std::string degree   = "B.Tech + M.Tech, Electronics & Communication";
+    std::string college  = "NIT Patna (2022–2027)";
+    float       cgpa     = 8.89f;
 
----
+    std::vector<std::string> craft = {
+        "RTL Design & Hardware Verification",
+        "High-Performance Systems in C++",
+        "Backend & Full-Stack Development"
+    };
 
-### 💻 Skills & Tools
+    std::string superpower = "I understand the machine — from transistors to TCP";
+};
+```
 
-**Languages**
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Verilog-152238?style=for-the-badge" />
-
-**Technologies & Tools**
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/ModelSim-00529B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Vivado-E3008C?style=for-the-badge" /> 
-
-**Core Concepts**
-[cite_start]Data Structures & Algorithms • Concurrency • Computer Architecture • RTL Design • Operating Systems [cite: 91, 33]
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rahulkumar-123&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar-123&layout=compact&theme=tokyonight"/>
-</p>
+I'm fascinated by the **boundary between hardware and software** — where Verilog meets C++, where timing constraints meet algorithmic complexity. Whether I'm designing a parameterized FIFO in RTL or architecting a concurrent cache engine, I care about correctness, performance, and understanding systems deeply.
 
 ---
 
-### 📬 Connect
+## `ls ~/projects`
 
-<p align="center">
-<a href="mailto:rahulpd180@gmail.com">
-<img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://linkedin.com/in/rahulkmr-nitp">
-<img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+### 🔲 [AXI4-Stream Synchronous FIFO](https://github.com/rahulkumar-123)
+> `Verilog HDL · C++ · Python · AXI4 Protocol · ModelSim · GTKWave`
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulkumar-123&label=Profile%20Views&color=blue"/>
-</p>
+Parameterized synchronous FIFO with **configurable almost-full/empty watermark thresholds**, integrated with an industry-standard **AMBA AXI4-Stream bridge** (active-low sync resets, tkeep byte-masking for partial-word transfers).
+
+- Built a **C++ Golden Reference Model** generating parameterized protocol stimulus
+- Python orchestration script for **1:1 automated regression** against ModelSim waveforms
+- Lossless high-speed data transfer verified across corner cases
+
+---
+
+### ⚡ [High-Performance In-Memory Cache Engine](https://github.com/rahulkumar-123)
+> `C++17 · STL · std::shared_mutex · Templates · Smart Pointers`
+
+Generic LRU Key-Value Store built for speed under concurrent load.
+
+| Metric | Result |
+|--------|--------|
+| get / put complexity | **O(1)** |
+| Average latency | **~0.12 µs** |
+| Throughput | **~8M ops/sec** |
+| Concurrent readers | Simultaneous via `shared_mutex` |
+
+Engineered with template metaprogramming, real-time hit/miss tracking, and a rigorous stress-test suite for cache thrashing scenarios.
+
+---
+
+### 🌐 [Alumni Portal – MN Jha DAV Public School](https://github.com/rahulkumar-123)
+> `MongoDB · Express · React · Node.js · Socket.IO · JWT · Tailwind CSS`  · **[Live Demo ↗]()**
+
+Production MERN application with **200+ real users**.
+
+- JWT auth + bcrypt hashing with admin-controlled onboarding
+- Real-time group chat via **Socket.IO** (join/leave, @mentions, group discovery)
+- Infinite-scroll community feed with likes, comments, sharing, categorized posts
+- Dynamic notification system with email digests
+
+---
+
+## `cat skills.txt`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Hardware & RTL**
+```
+Verilog HDL
+SystemVerilog
+RTL Design
+FSM Design
+Pipelining
+Timing Analysis
+Clock Domain Crossing
+Synchronizers
+AXI4 Protocol
+Testbench Development
+Golden Reference Modeling
+```
+</td>
+<td valign="top" width="33%">
+
+**Systems & Software**
+```
+C++ / C
+Templates & Metaprogramming
+Concurrency (mutex, shared_mutex)
+Data Structures & Algorithms
+Operating Systems
+Computer Architecture
+DBMS
+OOP
+```
+</td>
+<td valign="top" width="33%">
+
+**Web & Tools**
+```
+JavaScript / Node.js
+React / Express / MongoDB
+Socket.IO / JWT
+Git / Linux
+ModelSim / GTKWave
+Vivado / Quartus
+Postman / CMake
+```
+</td>
+</tr>
+</table>
+
+---
+
+## `./competitive_programming --stats`
+
+```
+Platform      Handle         Rating    Rank
+──────────────────────────────────────────
+LeetCode      rahulkumar     1904      Knight 🏅 (Top 5%)
+Codeforces    rahulkumar     1402      Specialist
+──────────────────────────────────────────
+Total problems solved: 600+
+```
+
+> Taught competitive programming to 40+ students at IEEE Student Branch, NIT Patna.
+
+---
+
+## `git log --experience`
+
+```
+commit a3f91c2  (HEAD)
+Author: Rahul Kumar
+Date:   Jun–Aug 2025
+
+    Indian Space Lab — Summer Research Intern (Remote)
+
+    Designed algorithmic pipelines for autonomous UAV target detection.
+    Implemented simulation models for surveillance performance evaluation.
+    Analyzed real-time sensor/telemetry streams to optimize detection accuracy.
+```
+
+---
+
+## `cat achievements.log`
+
+- 🏆 Hackathon **Winner** (1×) and **Runner-up** (1×), 4+ participations
+- 📜 NPTEL **Computer Networks & Internet Protocol** — Top 5% (IIT Kharagpur)
+- 📜 NPTEL **The Joy of Computing using Python** — Top 5% (IIT Ropar)
+- 🎓 **Secretary**, IEEE Student Branch, NIT Patna (Mar 2024 – Apr 2025)
+- 🎯 **Event Head**, Code the Uncoded 4.0
+- 🤝 **Organising Committee**, National Level Hackathon (1000+ participants)
+
+---
+
+## `htop` — GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahulkumar-123&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=rahulkumar-123&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar-123&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="40%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"The best programs are the ones written when the programmer
+ is supposed to be doing something else."  — mystery debugger
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahulkumar-123&label=Profile+Views&color=58A6FF&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer"/>
+
+</div>
