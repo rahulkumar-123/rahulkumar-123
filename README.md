@@ -1,23 +1,16 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=rahulkumar-123&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Kumar!;" />
 </h1>
 <h1 align="center">Rahul Kumar</h1>
 
 <p align="center">
-Dual Degree (B.Tech + M.Tech) — Electronics & Communication Engineering  
+Dual Degree (B.Tech + M.Tech) - Electronics & Communication Engineering  
 National Institute of Technology, Patna
 </p>
 
 <p align="center">
-I enjoy building systems close to the metal — from RTL and digital design to high-performance C++.
+I enjoy building systems close to the metal - from RTL and digital design to high-performance C++.
 </p>
-
----
 
 ### What I'm working on
 
@@ -62,6 +55,7 @@ Concurrency
 Computer Architecture  
 Digital Design  
 Operating Systems
+Full-Stack Development
 
 **Tools**
 
@@ -103,10 +97,6 @@ Vivado / Quartus
 
 <a href="https://linkedin.com/in/rahulkmr-nitp">
 <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/rahulkumar-123">
-<img src="https://img.shields.io/badge/github-rahulkumar--123-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
