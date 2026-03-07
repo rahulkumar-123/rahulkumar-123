@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{rahulkumar-123}/count.svg" alt="Visitor's Count" />
+  <img src="![](https://komarev.com/ghpvc/?username=rahulkumar-123)" />
 </div>
 
 <h1 align="center">
