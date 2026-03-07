@@ -15,7 +15,7 @@
 *One of the few engineers who's equally at home in a waveform viewer and a Node.js debugger.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahulkmr--nitp-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulkmr-nitp)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_%F0%9F%8F%85_1904-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_%F0%9F%8F%85_1904-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/rahulkmr-123/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_1402-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com)
 [![Email](https://img.shields.io/badge/Email-rahulpd180@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahulpd180@gmail.com)
 
@@ -37,17 +37,17 @@ struct Rahul {
         "Backend & Full-Stack Development"
     };
 
-    std::string superpower = "I understand the machine — from transistors to TCP";
+    std::string superpower = "I understand the machine - from transistors to TCP";
 };
 ```
 
-I'm fascinated by the **boundary between hardware and software** — where Verilog meets C++, where timing constraints meet algorithmic complexity. Whether I'm designing a parameterized FIFO in RTL or architecting a concurrent cache engine, I care about correctness, performance, and understanding systems deeply.
+I'm fascinated by the **boundary between hardware and software** - where Verilog meets C++, where timing constraints meet algorithmic complexity. Whether I'm designing a parameterized FIFO in RTL or architecting a concurrent cache engine, I care about correctness, performance, and understanding systems deeply.
 
 ---
 
 ## `ls ~/projects`
 
-### 🔲 [AXI4-Stream Synchronous FIFO](https://github.com/rahulkumar-123)
+### 🔲 [AXI4-Stream Synchronous FIFO](https://github.com/rahulkumar-123/FIFO_AXI4_C-)
 > `Verilog HDL · C++ · Python · AXI4 Protocol · ModelSim · GTKWave`
 
 Parameterized synchronous FIFO with **configurable almost-full/empty watermark thresholds**, integrated with an industry-standard **AMBA AXI4-Stream bridge** (active-low sync resets, tkeep byte-masking for partial-word transfers).
@@ -58,7 +58,7 @@ Parameterized synchronous FIFO with **configurable almost-full/empty watermark t
 
 ---
 
-### ⚡ [High-Performance In-Memory Cache Engine](https://github.com/rahulkumar-123)
+### ⚡ [High-Performance In-Memory Cache Engine](https://github.com/rahulkumar-123/LRU_Cache)
 > `C++17 · STL · std::shared_mutex · Templates · Smart Pointers`
 
 Generic LRU Key-Value Store built for speed under concurrent load.
@@ -74,8 +74,8 @@ Engineered with template metaprogramming, real-time hit/miss tracking, and a rig
 
 ---
 
-### 🌐 [Alumni Portal – MN Jha DAV Public School](https://github.com/rahulkumar-123)
-> `MongoDB · Express · React · Node.js · Socket.IO · JWT · Tailwind CSS`  · **[Live Demo ↗]()**
+### 🌐 [Alumni Portal – MN Jha DAV Public School](https://github.com/rahulkumar-123/Alumni_Portal_DAVJJP)
+> `MongoDB · Express · React · Node.js · Socket.IO · JWT · Tailwind CSS`  · **[Live Demo ↗](https://alumni-portal-davjjp.vercel.app/)**
 
 Production MERN application with **200+ real users**.
 
