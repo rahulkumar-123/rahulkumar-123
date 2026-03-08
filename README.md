@@ -57,7 +57,15 @@ Parameterized synchronous FIFO with **configurable almost-full/empty watermark t
 - Lossless high-speed data transfer verified across corner cases
 
 ---
+### [UART Transceiver with Baud-Rate Generator & Parity Control](https://github.com/rahulkumar-123/UART_Tx_Rx)
+> `Verilog HDL, ModelSim, GTKWave, Python`
+- Designed a full-duplex UART transceiver in Verilog with a parameterized baud-rate generator
+(9600–115200 bps), implementing a 16× oversampling FSM for mid-bit sampling and noise rejection.
+- Engineered configurable parity control (none/even/odd) and start/stop framing; verified zero frame
+errors across all baud rates in 10,000+ simulated transactions.
+- Developed a Python self-checking testbench, achieving BER < 10^-6 at 115200 bps
 
+---
 ### ⚡ [High-Performance In-Memory Cache Engine](https://github.com/rahulkumar-123/LRU_Cache)
 > `C++17 · STL · std::shared_mutex · Templates · Smart Pointers`
 
