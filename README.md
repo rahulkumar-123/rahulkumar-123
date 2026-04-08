@@ -3,12 +3,12 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                   │
-│        silicon → gates → logic → systems → software              │
+│        silicon → gates → logic → systems                           │
 │                                                                   │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=600&height=60&color=58A6FF&duration=3000&pause=800&lines=Rahul+Kumar;RTL+%26+Digital+Design;High-Performance+C%2B%2B;Full-Stack+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=600&height=60&color=58A6FF&duration=3000&pause=800&lines=Rahul+Kumar;RTL+%26+Digital+Design;High-Performance+C%2B%2B" />
 
 **ECE Dual Degree · NIT Patna · CGPA 8.89**
 
@@ -34,7 +34,6 @@ struct Rahul {
     std::vector<std::string> craft = {
         "RTL Design & Hardware Verification",
         "High-Performance Systems in C++",
-        "Backend & Full-Stack Development"
     };
 
     std::string superpower = "I understand the machine - from transistors to TCP";
